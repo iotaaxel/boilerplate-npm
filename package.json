@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Axel Iota",
+  "author": "Axel Iota",
+  "description": "This is an intro project",
+  "keywords": [ "freecodecamp", "npm", "intro" ],
+  "version": "0.0.1",
+  "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
